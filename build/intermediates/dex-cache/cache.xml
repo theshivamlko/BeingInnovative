@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_583cc9aed403846a1f1c11202fa06ec06d45321b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f08d40ef6c9f2fa734b76bff43b214d44f79cdcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a18f5f4c0f6da70f5e5f7dce1824128eca0077ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5d01fe8a2f241c00d3950356727a53a511794d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_678f5dfc8ee36daafc70952dd44354dba42f334e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_8cf664f614072d815d2a314ce81032bb0a0fb7b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_86eab564b0372d8a17d9450f930829889b3147f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_648ad8d9b72132655517e5406b32d4a0735e8bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_287befffd49269f9cc79dc4715b3cb8d08ecdb64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_97f7380970df867c13bcf687de03f84a20212b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_cad3d6733d9de0492f58b9c63785d1f36f3125e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_51066d8978c087f7c80a3239b9fa732bceb5eac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_5084ae5d48c3045a16436db092f7285e22875218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_02ea4428d3ef8fed9a4276b94d08de591ffb5af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_e1fa2917d3c5027cf01069057e5a3fa2a1198e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Applications\Devoleper\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e6786ace4911bf454a64a3deaf7fb28e83c87271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1136cc7f7689d8128729c7da1bf97cebcfbebba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_8ad293a751932d48f0da67091df6c2c79d020dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_b9885f89f2740d56ae40b1395ef712c4a7b9ce1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_1c8892ac45f05d06f9ed14d76dbdc2e43d3e5993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a625a31cb208c109d9f9a7e207e668720565f91f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Ebooks\Youtube\BeingInnovativeTutorials\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_8c8b46de31520aff0ab917e1a7ef907579ef537c.jar" />
+    </item>
+
+</items>
