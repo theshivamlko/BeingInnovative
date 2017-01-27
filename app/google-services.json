@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "367809923862",
+    "firebase_url": "https://beinginnovative-3a4cf.firebaseio.com",
+    "project_id": "beinginnovative-3a4cf",
+    "storage_bucket": "beinginnovative-3a4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367809923862:android:cf02e794ce7c5dd6",
+        "android_client_info": {
+          "package_name": "in.beinginnovative.beinginnovativetutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367809923862-84kabeb5odemdcknodrakg1dni93fsdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3x1mOt_Cqd1ZGLUMm2LC0-UetDY93AdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
