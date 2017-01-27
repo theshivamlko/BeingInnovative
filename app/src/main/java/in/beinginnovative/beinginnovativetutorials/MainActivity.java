@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     TextView tv1,tv2;
     String s;
     Global global;
+    int i=0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
